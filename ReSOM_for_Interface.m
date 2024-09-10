@@ -1,7 +1,6 @@
 % ReSOM script used in the article:
 
 % Van de Broek M., Riley W. J., Tang J., Frey S. D., Schmidt M. W. I.
-% submitted
 % Thermal adaptation of enzyme-mediated processes reduces simulated soil CO2 fluxes upon soil warming
 
 % This script is based on earlier Matlab versions of the ReSOM model:
